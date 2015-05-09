@@ -1,4 +1,4 @@
-package io.sidd.constants;
+package io.sidd.exchange.constants;
 
 public enum RateProviderList {
 	DBS

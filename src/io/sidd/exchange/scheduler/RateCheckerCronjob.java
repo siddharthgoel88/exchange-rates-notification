@@ -1,4 +1,4 @@
-package io.sidd.exchange;
+package io.sidd.exchange.scheduler;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.Scanner;
 import java.util.TimeZone;
 
-import io.sidd.rateproviders.DBSRateProviderImpl;
+import io.sidd.exchange.rateproviders.DBSRateProviderImpl;
 
 import javax.ejb.EJB;
 import javax.ejb.Schedule;

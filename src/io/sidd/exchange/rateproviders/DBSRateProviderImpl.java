@@ -1,4 +1,4 @@
-package io.sidd.rateproviders;
+package io.sidd.exchange.rateproviders;
 
 import java.io.IOException;
 

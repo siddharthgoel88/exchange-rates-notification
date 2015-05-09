@@ -1,3 +1,4 @@
+package io.sidd.exchange.rateproviders;
 //package io.sidd.rateproviders;
 //
 //import javax.ejb.EJB;

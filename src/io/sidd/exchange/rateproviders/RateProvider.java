@@ -1,4 +1,4 @@
-package io.sidd.rateproviders;
+package io.sidd.exchange.rateproviders;
 
 /*
  * Currently this interface is not used but check how it could be used with EJB
